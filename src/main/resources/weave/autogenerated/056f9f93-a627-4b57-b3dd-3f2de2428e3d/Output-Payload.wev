@@ -1,0 +1,7 @@
+%dw 2.0
+
+type auto_056f9f93_a627_4b57_b3dd_3f2de2428e3d_Output_Payload = {
+  "todays-greeting": String, 
+  _?: Any
+}
+
