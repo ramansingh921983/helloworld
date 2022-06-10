@@ -43,7 +43,7 @@
       <username>raman09021988</username>
       <password>Silky1234567</password>
       <applicationName>helloworld09021988</applicationName>
-      <environment>SANDBOX</environment>
+      <environment>Sandbox</environment>
       <workers>1</workers>
       <workerType>Micro</workerType>
       <properties>
